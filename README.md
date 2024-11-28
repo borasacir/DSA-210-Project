@@ -80,10 +80,4 @@ The project uses personal YouTube viewing history data exported via **Google Tak
 1. **GitHub Repository**: Includes all analysis scripts, visualizations, and documentation.
 2. **Plots and Visualizations**:
    - Heatmaps, bar charts, line plots, and word clouds.
-3. **Final Report**: A comprehensive LaTeX-based report summarizing findings and methodologies.
 4. **README.md**: This file documents the project structure and purpose.
-
-## Installation and Usage
-1. Clone the GitHub repository:
-   ```bash
-   git clone https://github.com/your-username/youtube-analysis-project.git
