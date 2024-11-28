@@ -1,2 +1,16 @@
 html-parser.py
-/venv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+env/
+.vscode/
+.idea/
+*.csv
+*.json
+*.log
+*.tmp
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
